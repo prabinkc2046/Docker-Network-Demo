@@ -33,7 +33,7 @@ Follow the steps below to set up and run the application:
 1. Clone the project repository:
 
 ```
-git clone Docker-Network-Demo
+git clone https://github.com/prabinkc2046/Docker-Network-Demo.git
 ```
 
 2. create a bridge network
